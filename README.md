@@ -6,3 +6,5 @@ A repository holding links to other repositories having Awesome Python scripts.
 - [Web Plotter](https://github.com/bokeh/bokeh) - Bokeh is a library useful for generating interactive web based plotter for monitoring and analysing your data.
 
 - [Fetch weather data from Weather Underground API](https://github.com/dh4/pywu) - This simple python script will pull data from weather underground api and can display different data through certain predefined commands.
+
+- MicroPython(https://github.com/micropython/micropython) - Technically not a script, MicroPython is a run time environment for Microcontroller boards to provide Python application runtime on these Microcontroller boards.
